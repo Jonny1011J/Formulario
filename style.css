@@ -5,7 +5,3 @@ body{
     flex-direction: column;
     margin: 0;
 }
-
-body.h3{
-    padding-right: 100px;
-}
